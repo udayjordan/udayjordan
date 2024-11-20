@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Uday Shikhar Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayjordan&label=Profile%20views&color=0e75b6&style=flat" alt="udayjordan" /> </p>
 
-- 🌱 I’m currently learning **react,node.js**
+- 🌱 I’m currently learning **LLM and Gen-AI**
 
 - 👨‍💻 All of my projects are available at [https://calm-bublanina-d34bec.netlify.app/](https://calm-bublanina-d34bec.netlify.app/)
 
