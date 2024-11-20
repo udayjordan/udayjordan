@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **LLM and Gen-AI**
 
-- 👨‍💻 All of my projects are available at [https://calm-bublanina-d34bec.netlify.app/](https://calm-bublanina-d34bec.netlify.app/)
+- 👨‍💻 All of my projects are available at [my-repo](https://github.com/udayjordan?tab=repositories)
 
 - 📫 How to reach me **udayjordan1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t6cQV3S961ypUgs66YvbAXPzjGp6IUpV/view?usp=sharing](https://drive.google.com/file/d/1t6cQV3S961ypUgs66YvbAXPzjGp6IUpV/view?usp=sharing)
+- 📄 Know about my experiences [link](https://drive.google.com/file/d/1WsKToHlOfa6YTW5E2NVO5V0bd1PzWQoV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
